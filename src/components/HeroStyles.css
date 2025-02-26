@@ -1,0 +1,66 @@
+.heroplus{
+    display: flex;
+    justify-content: space-between;
+}
+@media(max-width:500px){
+    .heroplus{
+    display: flex;
+}
+}
+@media(max-width:740px){
+    .heroplus{
+     
+        display: inline;         
+}
+.pic{
+      margin-inline-start: 60px;
+}
+.icons{
+   display: flex;
+   font-size: 20px;
+   margin-inline-start: auto
+}
+}
+
+.head{
+    margin-inline-start: 250px;
+    margin-top: 150px;
+}
+.pic{
+    margin-inline-end: 230px;
+    margin-top: 70px;
+    border-radius: 100px;
+    height: 400px;
+    width: 400px;
+    
+}
+h1{
+    font-size: 40px;
+}
+.kk{
+    color:blue;
+    font-family:cursive
+}
+.kk:hover{
+    color: aliceblue;
+}
+.icons{
+    margin-inline-start: 10px;
+    font-size: 40px;
+}
+
+.fist:hover{
+    font-size: 60px;
+    
+}
+.second:hover{
+    font-size: 60px;
+
+}
+.third:hover{
+    font-size: 60px;
+
+}
+a{
+    padding: 10px;
+}

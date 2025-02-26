@@ -1,0 +1,36 @@
+.contacthero{
+    margin-top: 120px;
+}
+p{
+    margin-top: 10px;
+}
+.firstt{
+    font-size: 40px;
+    padding: 13px;
+}
+.secondd{
+    font-size: 40px;
+    padding: 13px;
+}
+.thirdd{
+    font-size: 40px;
+    padding: 13px;
+}
+.para{
+    padding: 20px;
+}
+.firstt:hover{
+    font-size: 80px;
+    
+}
+.secondd:hover{
+    font-size: 80px;
+    
+}
+.thirdd:hover{
+    font-size: 80px;
+    
+}
+.para{
+    padding: 20px;
+}

@@ -1,0 +1,39 @@
+img{
+    width: 500px;
+    height: 400px;
+    border-radius: 350px;
+    margin-inline-start: 170px;
+    margin-top: 90px;
+    opacity: 0.8;
+}
+@media(max-width:500px){
+   
+    
+}
+
+@media(max-width:740px){
+      img{
+        display: none;
+      }
+    .resume{
+        margin-inline-start: 3000px;
+    }
+}
+.heroo{
+    display: flex;
+}
+p{
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-size: 37px;
+    margin-top: 13px;
+    margin-inline-start: 38px;
+}
+.resume{
+   margin-left: 1200px;
+   position:absolute;
+}
+.click{
+    color: lightblue;
+}
