@@ -25,7 +25,7 @@ export default function Contacthero() {
           </a>
           <p className="para">If you want to disucss more detail,please contact me</p>
           <h7>
-            Email:<a href="#">kandavel9894@gmail.com</a>
+            Email:<a href="https://github.com/JKandavel">kandavel9894@gmail.com</a>
           </h7>
         </center>
       </div>
