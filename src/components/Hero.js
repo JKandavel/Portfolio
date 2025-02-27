@@ -22,7 +22,7 @@ export default function Hero() {
           
           </h1>   
              
-           <img src={Men} className="pic" alt="photo"/>
+           <img src={Men} className="pic"/>
         
         </div>
       
